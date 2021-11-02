@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
+      "projectUniqueName": "D:\\Elearning\\Elearn APIs\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
       "projectName": "ElearnCoursesAPI",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
+      "projectPath": "D:\\Elearning\\Elearn APIs\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ElearnCoursesAPI\\obj\\",
+      "outputPath": "D:\\Elearning\\Elearn APIs\\ElearnCoursesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

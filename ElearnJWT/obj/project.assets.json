@@ -5559,11 +5559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ElearnJWT\\ElearnJWT.csproj",
+      "projectUniqueName": "D:\\Elearning\\Elearn APIs\\ElearnJWT\\ElearnJWT.csproj",
       "projectName": "ElearnJWT",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ElearnJWT\\ElearnJWT.csproj",
+      "projectPath": "D:\\Elearning\\Elearn APIs\\ElearnJWT\\ElearnJWT.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ElearnJWT\\obj\\",
+      "outputPath": "D:\\Elearning\\Elearn APIs\\ElearnJWT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

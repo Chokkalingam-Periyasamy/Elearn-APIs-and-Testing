@@ -5991,11 +5991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\EleranModuleAPI\\EleranModuleAPI.csproj",
+      "projectUniqueName": "D:\\Elearning\\Elearn APIs\\EleranModuleAPI\\EleranModuleAPI.csproj",
       "projectName": "EleranModuleAPI",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\EleranModuleAPI\\EleranModuleAPI.csproj",
+      "projectPath": "D:\\Elearning\\Elearn APIs\\EleranModuleAPI\\EleranModuleAPI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\EleranModuleAPI\\obj\\",
+      "outputPath": "D:\\Elearning\\Elearn APIs\\EleranModuleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

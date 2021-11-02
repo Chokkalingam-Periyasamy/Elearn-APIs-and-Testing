@@ -6856,11 +6856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Elearning\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
+      "projectUniqueName": "D:\\Elearning\\Elearn APIs\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
       "projectName": "ElearnStudentAPI",
-      "projectPath": "D:\\Elearning\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
+      "projectPath": "D:\\Elearning\\Elearn APIs\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Elearning\\ElearnStudentAPI\\obj\\",
+      "outputPath": "D:\\Elearning\\Elearn APIs\\ElearnStudentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

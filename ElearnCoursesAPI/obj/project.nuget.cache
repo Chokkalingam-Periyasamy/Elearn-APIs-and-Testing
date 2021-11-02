@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bp+QuFe889JXdN4QCAa+9ge3a0ffetxKGf0Ze6WBSozfe3gvPLlBzCEp4WsiSKN+lq+IjLjhD5PuvzHcytBKzA==",
+  "dgSpecHash": "9Xfi4TxSJQOPe+l9rGZ+yKtLbV6cJ1/oYLNw2L4Zt6TJnb7R1c3ctFlVy1f0H5SAZ/qBQmEu1uf4GRySB63H1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
+  "projectFilePath": "D:\\Elearning\\Elearn APIs\\ElearnCoursesAPI\\ElearnCoursesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

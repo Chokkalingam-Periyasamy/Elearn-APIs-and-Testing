@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nyj4XgfBZ31vIN1Jvb/50W3b9SWQ2ULmW52RQXXEoLhf29HtudtBCWXdIFgN39Mghxr5UAh9yNXLh5WZtCN6Sw==",
+  "dgSpecHash": "fhsj0icBA3qHJSpSeZGd9oubr6O6WN0qEBCBejWthSLa4kxFRY0JaE12YxfWuY/BZzfVgg3GfP7hkpaU4mmVYA==",
   "success": true,
-  "projectFilePath": "D:\\Elearning\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
+  "projectFilePath": "D:\\Elearning\\Elearn APIs\\ElearnStudentAPI\\ElearnStudentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

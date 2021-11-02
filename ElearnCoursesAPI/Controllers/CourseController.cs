@@ -19,7 +19,13 @@ namespace ElearnCoursesAPI.Controllers
         
        
         public static List<Course> atc = new List<Course>();
-
+        [HttpGet]
+        [Route("HomeCourses")]
+        public IActionResult Hcourse()
+        {
+            var hc = from i in db.Courses select i;
+            return Ok(hc);
+        }
 
         [HttpGet]
         [Route("GetCourseByUserId")]

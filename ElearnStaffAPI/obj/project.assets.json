@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ElearnStaffAPI\\ElearnStaffAPI.csproj",
+      "projectUniqueName": "D:\\Elearning\\Elearn APIs\\ElearnStaffAPI\\ElearnStaffAPI.csproj",
       "projectName": "ElearnStaffAPI",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ElearnStaffAPI\\ElearnStaffAPI.csproj",
+      "projectPath": "D:\\Elearning\\Elearn APIs\\ElearnStaffAPI\\ElearnStaffAPI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ElearnStaffAPI\\obj\\",
+      "outputPath": "D:\\Elearning\\Elearn APIs\\ElearnStaffAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
